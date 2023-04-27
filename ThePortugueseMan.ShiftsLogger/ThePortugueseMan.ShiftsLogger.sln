@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShiftsLoggerAPI", "ShiftsLogger\ShiftsLoggerAPI.csproj", "{3EC9F84F-3CD6-47F8-9A8F-087EC8E7D983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC9F84F-3CD6-47F8-9A8F-087EC8E7D983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC9F84F-3CD6-47F8-9A8F-087EC8E7D983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC9F84F-3CD6-47F8-9A8F-087EC8E7D983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC9F84F-3CD6-47F8-9A8F-087EC8E7D983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116A4E23-ACA4-4E63-946E-8FCDEFD51C3D}
+	EndGlobalSection
+EndGlobal
